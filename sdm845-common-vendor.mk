@@ -764,6 +764,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     CneApp \
+    deviceInfoServiceModule \
     IWlanService \
     SoterService \
     TimeService \
